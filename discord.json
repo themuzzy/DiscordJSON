@@ -1,1 +1,19 @@
-
+{
+  "auth":{
+    "username":"",
+    "password":""
+  },
+  "status":{
+    "activity":"",
+    "game":""
+  },
+  "dependecies":[
+    "discord.js"
+  ],
+  "commands":{
+    "<name>":{
+      "<decription>":"<value>",
+      "<action>":"<value>"
+    }
+  }
+}
